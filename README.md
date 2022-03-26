@@ -1,7 +1,8 @@
 # Event Organizer-Evento
 
 ### [Live Site] (https://brilliant-daffodil-364e09.netlify.app/)
-![Event_organizer](https://user-images.githubusercontent.com/71623963/160083992-00c625bd-7b72-4fe9-a4b7-9f3ff4e5b82f.png)
+![Dream Filler](https://user-images.githubusercontent.com/71623963/160242192-17bf6ef9-09fe-4d2c-949d-5d98f4a3e3bd.png)
+
 
 ## Introduction
 This code repository is for a Event Organizer Website.
