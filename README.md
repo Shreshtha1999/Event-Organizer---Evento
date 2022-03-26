@@ -6,5 +6,5 @@
 
 ## Introduction
 This code repository is for a Event Organizer Website.
-Frontend is created using HTML, CSS , Javascript and Email.JS.
+Frontend is created using HTML, CSS , JavaScript and Email.JS.
 Working on the backend part to add more features to the existing website.
