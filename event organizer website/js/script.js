@@ -68,3 +68,14 @@ var swiper = new Swiper(".review-slider", {
       disableOnInteraction:false,
   }
 });
+
+function SendMail(){
+  var params = {
+    from_name : document.getElementById("name").ariaValueMax,
+    email_id : document.getElementById("email-id").ariaValueMax,
+    message : document.getElementById("message").ariaValueMax
+  }
+  emailjs.send("service_fdfj4dd", "template_5eck93b", params).then(function(res){
+    alert("Success!" + res.status);
+  })
+}
